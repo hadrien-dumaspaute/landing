@@ -1,0 +1,40 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+  background-color: #EDE0D4;
+  color: #5C4033;
+  font-family: 'Quicksand', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  color: #8B5A2B;
+  font-weight: 900;
+  font-size: 85px;
+  text-align: center;
+  text-shadow: 3px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  color: #A67B5B;
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+p {
+  color: #704214;
+  font-size: 1.1em;
+  text-align: center;
+}
